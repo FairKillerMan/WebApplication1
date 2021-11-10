@@ -15,7 +15,7 @@ namespace WebApplication1
         {
             CreateHostBuilder(args).Build().Run();
             //teste
-            //exemplo
+>>>>>>>>>  //exemplo
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
